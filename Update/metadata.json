@@ -1,0 +1,19 @@
+{
+    "files": [
+        {
+            "checksum": 709470280,
+            "compressed_size": 2996477,
+            "relative_path": "DataTable\\Item.edf",
+            "size": 15226399
+        },
+        {
+            "checksum": 1495515502,
+            "compressed_size": 401,
+            "relative_path": "system\\config.ini",
+            "size": 422
+        }
+    ],
+    "total_compressed_size": 2996477,
+    "total_files": 1,
+    "version": 17450724955970787
+}
