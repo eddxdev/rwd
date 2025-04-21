@@ -1,10 +1,34 @@
 {
     "files": [
         {
-            "checksum": 709470280,
-            "compressed_size": 2996477,
+            "checksum": 4032466321,
+            "compressed_size": 89583,
+            "relative_path": "DataTable\\Character.edf",
+            "size": 633189
+        },
+        {
+            "checksum": 747045273,
+            "compressed_size": 2189175,
+            "relative_path": "DataTable\\en-gb\\NDItem.edf",
+            "size": 7844672
+        },
+        {
+            "checksum": 3109634199,
+            "compressed_size": 2996337,
             "relative_path": "DataTable\\Item.edf",
             "size": 15226399
+        },
+        {
+            "checksum": 735647935,
+            "compressed_size": 1519547,
+            "relative_path": "DataTable\\ItemCombine.edf",
+            "size": 14284197
+        },
+        {
+            "checksum": 1784311431,
+            "compressed_size": 31338,
+            "relative_path": "DataTable\\Store.edf",
+            "size": 540729
         },
         {
             "checksum": 1495515502,
@@ -13,7 +37,7 @@
             "size": 422
         }
     ],
-    "total_compressed_size": 2996477,
-    "total_files": 1,
-    "version": 17450724955970787
+    "total_compressed_size": 6825980,
+    "total_files": 5,
+    "version": 17452680907903046
 }
